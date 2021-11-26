@@ -1,0 +1,6 @@
+new line >> new.file
+ls
+echo new line >> new.file
+ls
+echo new line
+new line
