@@ -1,5 +1,0 @@
-modify
-undify
-commit test
-789.
-new branch line
